@@ -1,5 +1,5 @@
-# cglobal
-Calentamiento Global - Tendencia de la temperatura desde 1880
+# Calentamiento Global  (cglobal)
+Tendencia de la temperatura desde 1880
 
 #Objetivo del proyecto 
 
