@@ -3,25 +3,25 @@ Tendencia de la temperatura desde 1880
 
 ![alt text](https://pbs.twimg.com/media/DpMitf7XcAALWOb.jpg)
 
-#Objetivo del proyecto 
+## Objetivo del proyecto 
 
 Concientizar a las personas que el calentamiento global es una realidad de todo el planeta.
 Presentar tendencias de la temperatura en la línea del tiempo.
 Abstración de los datos 
 Identificar Insight
 
-#Tecnologías usadas
+## Tecnologías usadas
 Sublime Text
 D3 Vega Lite
 Wampserver
 
-#Ejecución
+## Ejecución
 
 Ingresar al link https://churtado18.github.io/cglobal/index.html
 
 Seleccionar las zonas o meses que desee indentificar.
 
-#Autores 
+## Autores 
 
 Conjunto de datos:
 GISTEMP Team, 2018: Análisis de temperatura de superficie GISS (GISTEMP) . 
@@ -33,7 +33,7 @@ Autor Visualización: Carmelo Hurtado Orozco
 Link: https://churtado18.github.io/cglobal/index.html
 
 
-#Licencia
+## Licencia
 
 Este proyecto está bajo la licencia MIT
 
