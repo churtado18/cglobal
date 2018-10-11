@@ -37,5 +37,5 @@ Link: https://churtado18.github.io/cglobal/index.html
 
 MIT License
 
-Este proyecto está bajo la licencia MIT [a link](https://github.com/churtado18/cglobal/blob/gh-pages/LICENSE) 
+Este proyecto está bajo la licencia [MIT](https://github.com/churtado18/cglobal/blob/gh-pages/LICENSE) 
 
