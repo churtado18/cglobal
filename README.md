@@ -1,6 +1,8 @@
 # Calentamiento Global  (cglobal)
 Tendencia de la temperatura desde 1880
 
+![alt text](https://pbs.twimg.com/media/DpMitf7XcAALWOb.jpg)
+
 #Objetivo del proyecto 
 
 Concientizar a las personas que el calentamiento global es una realidad de todo el planeta.
